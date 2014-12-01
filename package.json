@@ -1,5 +1,5 @@
 {
-	"name": "browser-launcher2",
+	"name": "browser-launcher3",
 	"version": "0.4.4",
 	"description": "Detect, launch and stop browser versions",
 	"main": "index.js",
@@ -22,9 +22,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/benderjs/browser-launcher2.git"
+		"url": "https://github.com/hyamine/browser-launcher3.git"
 	},
-	"homepage": "https://github.com/benderjs/browser-launcher2",
+	"homepage": "https://github.com/hyamine/browser-launcher3",
 	"keywords": [
 		"browser",
 		"headless",
