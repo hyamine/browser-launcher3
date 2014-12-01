@@ -6,7 +6,7 @@ isolated profile for automated testing purposes.
 You can launch browsers headlessly (using [Xvfb](http://en.wikipedia.org/wiki/Xvfb) or with [PhantomJS](http://phantomjs.org/)) and set
 the proxy configuration on the fly.
 
-It's a fork of [substack/browser-launcher](https://github.com/substack/browser-launcher) repository which seems to be no longer maintained.
+It's a fork of [substack/browser-launcher](https://github.com/hyamine/browser-launcher3) repository which seems to be no longer maintained.
 
 ## Differences from *browser-launcher*
 
@@ -33,7 +33,7 @@ At the moment, `browser-launcher2` supports following browsers on Windows, Unix 
 ## Install
 
 ```
-npm install browser-launcher2
+npm install browser-launcher3
 ```
 
 ## Example
